@@ -2,7 +2,7 @@
 print("Banana")
 a="Apple"
 b="Custard apple"
-print(a)
+#print(a)
 print(b)
 """print("Hello......")   multiline comments
 print("How are you.........!")
