@@ -1,2 +1,5 @@
+
+#mkdir() function
 import os
-os.mkdir("d:\\Tulip")
+os.mkdir("d:\\tulip")
+print("making directory")
