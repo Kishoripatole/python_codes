@@ -14,4 +14,4 @@ C = Simple_Calculator()
 print(C.add(3)) # single argument  
 print(C.add(3, 6)) # two arguments  
 print(C.add(3,6,9)) # three arguments 
-print(C.add(3,6,9,12))  
+print(C.add(3,6,9,12))  #four arguments 
