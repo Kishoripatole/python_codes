@@ -1,2 +1,2 @@
 f=open("armstrong.py")
-print(f.readline(4))
+print(f.read())
