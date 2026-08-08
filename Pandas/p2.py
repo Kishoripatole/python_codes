@@ -4,4 +4,4 @@ df=pd.read_csv("Pandas/teacher.csv")
 print(df)
 
 
-print(df.head(1))
+print(df.head())
